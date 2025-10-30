@@ -1,0 +1,48 @@
+ID,Module,AVG.RFU,Std.Dev,N analyzed,MonthAnalyzed,StdType,Adj.AVG.RFU
+Buffer blank,Orange - PC,213.98,0.943980932,3,April,Blank,0
+Buffer blank,Green - PE,46.48666667,2.479442142,3,April,Blank,0
+Microcystis,Orange - PC,101797752.9,9172802.438,9,April,Field,101797539
+Microcystis,Green - PE,477128.3224,71719.13974,9,April,Field,477081.8358
+Grateloupia,Orange - PC,84840.09,1545.917374,3,April,Field,84626.11
+Grateloupia,Green - PE,40773.98667,2754.135802,6,April,Field,40727.5
+Buffer blank,Green - PE,38.8425,2.463556649,12,March,Blank,0
+Buffer blank,Orange - PC,196.435,0.374766594,2,March,Blank,0
+Buffer blank,Green - PE,51.44,12.82691701,2,February- Calibration,Blank,0
+R-PE Diluted 512,Orange - PC,415.01,1.374372584,3,March,Purified protein,218.575
+R-PE Diluted 512,Green - PE,239.795,0.148492424,2,February- Calibration,Purified protein,188.355
+R-PE Diluted 128,Orange - PC,830.7266667,3.065490717,3,March,Purified protein,634.2916667
+R-PE Diluted 128,Green - PE,678.785,8.56306312,2,February- Calibration,Purified protein,627.345
+R-PE Diluted 64,Orange - PC,1359.606667,5.354309791,3,March,Purified protein,1163.171667
+R-PE Diluted 64,Green - PE,1212.95,14.96237949,2,February- Calibration,Purified protein,1161.51
+R-PE Diluted 16,Green - PE,4314.995,81.70618857,2,February- Calibration,Purified protein,4263.555
+R-PE Diluted 8,Green - PE,8387.94,125.4690273,2,February- Calibration,Purified protein,8336.5
+R-PE Diluted 4,Green - PE,16825.385,91.87438408,2,February- Calibration,Purified protein,16773.945
+C-PC Diluted 1000,Green - PE,45.15666667,0.962410169,3,March,Commercial,6.314166667
+C-PC Diluted 1000,Orange - PC,627.19,2.446589463,2,February- Calibration,Commercial,416.4066667
+C-PC Diluted 500,Green - PE,50.54333333,0.282901632,3,March,Commercial,11.70083333
+C-PC Diluted 500,Orange - PC,1076.41,8.95197185,2,February- Calibration,Commercial,865.6266667
+C-PC Diluted 400,Green - PE,38.71666667,0.105987421,3,March,Commercial,-0.125833333
+C-PC Diluted 400,Orange - PC,1445.84,2.093036072,2,February- Calibration,Commercial,1235.056667
+C-PC Diluted 100,Orange - PC,5559.51,49.11563702,2,February- Calibration,Commercial,5348.726667
+C-PC Diluted 50,Orange - PC,14728.395,140.2687722,2,February- Calibration,Commercial,14517.61167
+Buffer blank,Orange - PC,210.7833333,11.86188996,3,February- Calibration,Blank,0
+Buffer blank,Orange - PC,110.9463636,29.99611515,33,July,Blank,0
+Solid 2nd std,Orange - PC,2536.40125,251.0138158,16,July,Solid secondary,NA
+New C-PC Diluted 100,Orange - PC,4038.71,32.61916768,3,July - Calibration,Commercial,3855.841429
+New C-PC Diluted 200,Orange - PC,1573.793333,39.66714804,3,July - Calibration,Commercial,1390.924762
+New C-PC Diluted 400,Orange - PC,829.78,23.30229817,3,July - Calibration,Commercial,646.9114286
+New C-PC Diluted 800,Orange - PC,460.33,22.24221886,3,July - Calibration,Commercial,277.4614286
+New C-PC Diluted 1600,Orange - PC,286.6633333,7.178247233,3,July - Calibration,Commercial,103.7947619
+Buffer blank,Orange - PC,182.8685714,29.1509825,7,July - Calibration,Blank,0
+Solid 2nd std,Orange - PC,2522.187143,35.08767576,7,July - Calibration,Solid secondary,NA
+New C-PC Diluted 100,Orange - PC,3310.562,200.9645092,5,July,Commercial,3199.615636
+Buffer blank,Green - PE,-0.297948718,6.139869782,39,July,Blank,0
+Solid 2nd std,Green - PE,137.1988235,30.29110366,17,July,Solid secondary,NA
+New R-PE Diluted 480,Green - PE,81.285,27.66232026,7,July,Purified protein,80.98705128
+New R-PE Diluted 480,Green - PE,147.0833333,5.211615233,3,July - Calibration,Purified protein,106.727619
+New R-PE Diluted 240,Green - PE,248.68,3.458858193,3,July - Calibration,Purified protein,208.3242857
+New R-PE Diluted 120,Green - PE,476.67,3.801526009,3,July - Calibration,Purified protein,436.3142857
+New R-PE Diluted 60,Green - PE,899.53,6.800551448,3,July - Calibration,Purified protein,859.1742857
+New R-PE Diluted 30,Green - PE,1842.856667,10.64360058,3,July - Calibration,Purified protein,1802.500952
+Buffer blank,Green - PE,40.35571429,1.117793319,7,July - Calibration,Blank,0
+Solid 2nd std,Green - PE,107.4,9.581723923,7,July - Calibration,Solid secondary,NA
